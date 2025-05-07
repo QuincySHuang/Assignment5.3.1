@@ -1,5 +1,5 @@
 ﻿
-
+// time complexity is O(n)
 
 
 int[] flowerbed = {1,0,0,0,1};
